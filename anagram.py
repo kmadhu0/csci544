@@ -1,6 +1,7 @@
 from pprint import pprint
 from sys import argv
 results=[]
+
 def anagram(s,x,y):
 	if x==y:
 		results.append(''.join(s))
