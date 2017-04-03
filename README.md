@@ -1,7 +1,5 @@
-I am currently taking USC's graduate course in Natural Language Processing, taken by Prof. Ron Artstein (ron.artstein.org/csci544-2016/index.html).
+I took USC's graduate course in Natural Language Processing by Prof. Ron Artstein (ron.artstein.org/csci544-2016/index.html in Spring 2016.
 
-This repo contains the code that I have written and will be writing during the length of the course. 
+This repo contains the code that I wrote as part of the course requirements 
 
-I am super excited about this course and I believe that my research background in Information Retrieval is a solid foundation for this course.
-
-I hope the code I write for this course will help some programmer around the world in his/her work.
+Please reach out to me if you need clarifications about this code.
